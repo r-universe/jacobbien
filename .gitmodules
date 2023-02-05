@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "simulator"]
+	path = simulator
+	url = https://github.com/jacobbien/simulator
+	shallow = true
+	registered = true
