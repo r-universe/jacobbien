@@ -1,5 +1,13 @@
 [
   {
+    "package": "hierNet",
+    "oncran": true
+  },
+  {
+    "package": "protoclust",
+    "oncran": true
+  },
+  {
     "package": "simulator",
     "oncran": true
   }
