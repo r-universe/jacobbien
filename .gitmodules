@@ -18,3 +18,8 @@
 	url = https://github.com/jacobbien/simulator
 	shallow = true
 	registered = true
+[submodule "spcov"]
+	path = spcov
+	url = https://github.com/cran/spcov
+	shallow = true
+	registered = true
