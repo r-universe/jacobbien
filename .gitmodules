@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hierNet"]
 	path = hierNet
 	url = https://github.com/jacobbien/hiernet
-	shallow = true
-	registered = true
 [submodule "protoclust"]
 	path = protoclust
 	url = https://github.com/jacobbien/protoclust
-	shallow = true
-	registered = true
 [submodule "simulator"]
 	path = simulator
 	url = https://github.com/jacobbien/simulator
-	shallow = true
-	registered = true
 [submodule "spcov"]
 	path = spcov
 	url = https://github.com/cran/spcov
-	shallow = true
-	registered = true
